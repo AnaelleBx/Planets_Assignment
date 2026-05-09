@@ -24,5 +24,5 @@ AI Transparency: Ai was not used for any part of this assignment , everything wa
 
 
 *Thank you* 😃⭐
-![Banner](https://static.vecteezy.com/system/resources/previews/052/521/021/large_2x/planets-of-the-solar-system-lined-up-in-space-photo.jpeg)
+![Banner](https://services.meteored.com/img/article/alineacion-planetaria-enero-1736765950475_1024.jpeg)
 
