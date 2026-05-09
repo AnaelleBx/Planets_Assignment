@@ -20,6 +20,9 @@ My planet Console Application was tested against the following scenarios:
 3. **Data Integrity:** Confirmed that Pluto and all dwarf planets display correctly despite list length
 handling for console buffer limits, and generating information. Directions for users was also provided to ensure the code met specific assignment criteria making it user friendly for all and all logical structures.
 
+AI Transparency: Ai was not used for any part of this assignment , everything was done with my own knowledge/Understanding and learning materials/extra learning materials 
+
+
 *Thank you* 😃⭐
 ![Banner](https://cdn.pixabay.com/animation/2024/07/23/19/53/19-53-03-437__340.png)
 
