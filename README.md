@@ -1,2 +1,23 @@
-# Planets_Assignment
-A C# console application exploring the solar system. Built to demonstrate Object Oriented Programming fundamentals, including class outline, list management, and custom user interface styling using C# console methods.
+![Banner](https://img.freepik.com/premium-photo/pink-universe-light-galaxies-sky-space-planets-stars-beauty-galaxy-space-exploration_1715-6774.jpg)
+#Planets_Assignment 🪐🚀
+
+[1;3;35mThe Planets - Solar System Explorer[0m
+
+Here I have created an interactive C# console application that stores and manages data for the planets in our solar system. This project demonstrates OOP fundamentals such as classes, list management, and input validation.
+
+## 🚀 Features
+- **Side-by-Side Display:** View all planets in a clean, two-column layout.
+- **Search Functionality:** Look up specific mass and distance data.
+- **Moon Tracker:** View the names and counts of moons for each planet.
+- **Solar System Validation:** Check if a specific object is recognized in the local database.
+
+## 🛠️ Technology Stack
+- **Language:** C# (.NET 6.0 or higher)
+- **Architecture:** Object-Oriented Programming (Encapsulation and Data Modeling)
+
+## 📋 Test Plan
+The application was tested against the following scenarios:
+1. **Case Sensitivity:** Verified that searching "mars" or "MARS" returns the correct data.
+2. **Input Validation:** Ensured that invalid menu choices (e.g., entering "9") do not crash the program.
+3. **Data Integrity:** Confirmed that Pluto and all dwarf planets display correctly despite list length.
+handling for console buffer limits, and generating descriptive comments. Human direction was provided to ensure the code met specific assignment criteria and logical structures.
