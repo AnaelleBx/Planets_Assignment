@@ -1,4 +1,4 @@
-# ![Planets Assignment](https://img.shields.io/badge/Planets_Assignment-🪐🚀-red?style=for-the-badge)
+![Planets Assignment](https://img.shields.io/badge/Planets_Assignment-🪐🚀-red?style=for-the-badge)
 ⭐The Planets - Solar System Explorer⭐
 
 Here I have created an interactive C# console application that stores and manages data for the planets in our solar system. This project demonstrates OOP fundamentals such as classes, list management, and input validation.
