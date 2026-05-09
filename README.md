@@ -1,4 +1,4 @@
-# **Planets_Assignment 🪐🚀**
+# **Planets Assignment 🪐🚀**
 ⭐The Planets - Solar System Explorer⭐
 
 Here I have created an interactive C# console application that stores and manages data for the planets in our solar system. This project demonstrates OOP fundamentals such as classes, list management, and input validation.
