@@ -1,4 +1,4 @@
-<h1 align="left"> <em style="color: #ff69b4;"><strong>***Planets_Assignment🪐🚀***</strong></em></h1>
+<h1 align="left"> <em style="color:#FF0000;"><strong>***Planets_Assignment🪐🚀***</strong></em></h1>
 __The Planets - Solar System Explorer__
 
 Here I have created an interactive C# console application that stores and manages data for the planets in our solar system. This project demonstrates OOP fundamentals such as classes, list management, and input validation.
