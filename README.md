@@ -1,4 +1,3 @@
-> [!WARNING]
 > # **Planets_Assignment 🪐🚀**
 ⭐The Planets - Solar System Explorer⭐
 
