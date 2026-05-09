@@ -4,7 +4,7 @@
 Here I have created an interactive C# console application that stores and manages data for the planets in our solar system. This project demonstrates OOP fundamentals such as classes, list management, and input validation.
 
 ***🚀 Features***
-- **Contains a Side by Side Display:** This allows user to view all planets in a clean, two column layout
+- **Contains a Side by Side Display:** This allows the user to view all planets in a clean easy to read two column layout
 - **Search Functionality:** Allows user to look up specific mass and distance data
 - **Moon Tracker:** Allows user to view the names and counts of moons for each planet
 - **Solar System Validation:** This Checks if a specific object is recognised in the database
@@ -24,5 +24,5 @@ AI Transparency: Ai was not used for any part of this assignment , everything wa
 
 
 *Thank you* 😃⭐
-![Banner](https://cdn.pixabay.com/animation/2024/07/23/19/53/19-53-03-437__340.png)
+![Banner](https://static.vecteezy.com/system/resources/previews/052/521/021/large_2x/planets-of-the-solar-system-lined-up-in-space-photo.jpeg)
 
