@@ -7,7 +7,7 @@ Here I have created an interactive C# console application that stores and manage
 - **Contains a Side by Side Display:** This allows the user to view all planets in a clean easy to read two column layout
 - **Search Functionality:** Allows user to look up specific mass and distance data
 - **Moon Tracker:** Allows user to view the names and counts of moons for each planet
-- **Solar System Validation:** This Checks if a specific object is recognised in the database
+- **Solar System Validation:** This checks if a specific object is recognised in the database
 
 ***🛠️ Technology Info***
 - **Language:** C# 
